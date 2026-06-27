@@ -1,0 +1,1 @@
+AgenticPodcast is a fully autonomous AI-powered livestream system that runs 24/7 without human input. It continuously reads the latest news, writes and voices a spoken broadcast — like a radio station run entirely by AI.

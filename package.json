@@ -17,5 +17,16 @@
   "bugs": {
     "url": "https://github.com/Ocean55555/AgenticPodcast/issues"
   },
-  "homepage": "https://github.com/Ocean55555/AgenticPodcast#readme"
+  "homepage": "https://github.com/Ocean55555/AgenticPodcast#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
 }
