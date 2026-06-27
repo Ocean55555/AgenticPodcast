@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/*
+
+# Build output
+dist/*
+
+# Generated audio files
+public/audio/*
+
+# Episode data & logs
+data/*
+logs/*
+
+# Environment variables
+.env
