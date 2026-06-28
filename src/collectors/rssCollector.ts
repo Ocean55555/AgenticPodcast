@@ -5,7 +5,6 @@ type Feeds = {
   url: string;
 };
 
-
 export async function collectRSS(feeds: Feeds[]) {
   const parser = new Parser();
 

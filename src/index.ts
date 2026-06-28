@@ -1,10 +1,12 @@
 import { chat } from './llm/localLLM';
 import { collectRSS } from './collectors/rssCollector';
 
+
+
 async function testCollectRSS() {
   // Sample RSS feeds
   const feeds = [
-    { url: 'https://arxiv.org/rss/cs.AI' },
+    { url: 'https://tldr.tech/api/rss/ai' },
   ];
 
   try {
